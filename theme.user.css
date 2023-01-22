@@ -163,7 +163,7 @@ a.username, .flex-row .title a, .flex-row a, .comment-reply a, #footer a, a:visi
     margin-right: -57rem !important; }
 .project-remixes {
     position: absolute;
-    left: 870px;
+    right: 870px;
     z-index: 1; }
 .project-remixes::after {
     left: -3.4rem !important; }
