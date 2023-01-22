@@ -144,7 +144,7 @@ a.username, .flex-row .title a, .flex-row a, .comment-reply a, #footer a, a:visi
 .flex-row.stats.noselect, .flex-row.subactions {
     padding-top: 8px !important; }
 .flex-row.preview-row:nth-child(3) {
-    height: 22px !important;
+    height: 18px !important;
     background-color: #ddd; }
 .share-date {
     top: -428px !important;
@@ -163,7 +163,7 @@ a.username, .flex-row .title a, .flex-row a, .comment-reply a, #footer a, a:visi
     margin-right: -57rem !important; }
 .project-remixes {
     position: absolute;
-    right: 870px;
+    left: 870px;
     z-index: 1; }
 .project-remixes::after {
     left: -3.4rem !important; }
