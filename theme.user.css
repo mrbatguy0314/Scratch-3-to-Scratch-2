@@ -1,8 +1,12 @@
 /* ==UserStyle==
-@name           Scratch 2.5
-@version        1.0
+@name           Scratch 3 to 2
+@namespace      https://github.com/gliczide/Scratch-2.1/
+@supportURL     https://github.com/gliczide/Scratch-2.1/pulls
+@updateURL      https://github.com/gliczide/Scratch-2.1/theme.user.css
+@version        0.9.8
+@license        Apache License 2.0
 @description    Reverts 3.0 pages into 2.0!
-@author         coolkitty2009 <gliczide@glicz.site> (https://github.com/coolkitty2009/)
+@author         gliczide <gliczide@gmail.com> (https://txti.es/gliczide)
 @preprocessor   stylus
 
 @var checkbox header 'Header (2013-early 2016)' 1
@@ -14,7 +18,6 @@
 @var checkbox improved 'Bit improved buttons in studio' 1
 @var checkbox features 'Featured text (Apr 2013 - Jul 2013)' 0
 @var checkbox early 'Alpha 2.0' 0
-
 ==/UserStyle== */
 @-moz-document domain("scratch.mit.edu") {
 /*2013 padding logo*/
