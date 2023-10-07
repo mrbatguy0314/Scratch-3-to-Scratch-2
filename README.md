@@ -1,5 +1,4 @@
-![Preview](https://www.youtube.com/watch?v=BJQfTPmdRYg))
-
+https://www.youtube.com/watch?v=BJQfTPmdRYg
 ---
 
 ### Version: 0.9.7
