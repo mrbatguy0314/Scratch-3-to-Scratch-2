@@ -1,4 +1,4 @@
-![Preview](https://raw.githubusercontent.com/gliczide/Scratch-2.1/main/preview.png)
+![Preview](https://www.youtube.com/watch?v=BJQfTPmdRYg))
 
 ---
 
