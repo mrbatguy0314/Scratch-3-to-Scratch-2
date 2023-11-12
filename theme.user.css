@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name           Scratch 3.0 to Scratch 2.0
+@name           Rescratcher
 @namespace      https://github.com/gliczide/Rescratcher/
 @supportURL     https://github.com/gliczide/Rescratcher/pulls
 @updateURL      https://github.com/gliczide/Rescratcher/theme.user.css
@@ -2357,7 +2357,9 @@ img.tool-select-base_tool-select-icon_tJ-rr {
 .backpack_backpack-header_6ltCS {
     text-align: left;
     padding-left: 16px;
-    border-top-left-radius: 0.5rem; }
+    border-top-left-radius: 0.5rem;
+    margin-top:-2px;
+}
 .backpack_backpack-list_MOp5X {
     background-color: #F2F2F2;
     border-left: 1px solid #ccc;
