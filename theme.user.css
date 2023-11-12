@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name           Rescratcher
+@name           Scratch 2013afy
 @namespace      https://github.com/gliczide/Rescratcher/
 @supportURL     https://github.com/gliczide/Rescratcher/pulls
 @updateURL      https://github.com/gliczide/Rescratcher/theme.user.css
@@ -390,7 +390,9 @@ li.search {
     padding-left: 33.1px;
     margin-left: 1px;
     padding-right: 5px;
-    line-height: 24px; }
+    line-height: 24px;
+    width:170px;
+}
 #navigation .inner > ul > li.search .input[type="text"]:focus {
     background-color: #fff;
     color: #555; }
