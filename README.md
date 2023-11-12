@@ -1,12 +1,9 @@
-https://www.youtube.com/watch?v=BJQfTPmdRYg
 ---
 
-### Version: 0.9.7
+### Version: 1.0.0
 ### Default Font Size: 16 only!
 
 [Installation:]
-
-https://github.com/infinitytec/I-Cant-Believe-Its-Not-2
 
 https://github.com/infinitytec/2.0-Colors
 
