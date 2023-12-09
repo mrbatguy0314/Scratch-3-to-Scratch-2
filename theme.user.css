@@ -25,6 +25,7 @@
 /* scratch 2.0 fizes*/
 #topnav form.search input[type=text]{
     width:170px;
+    margin-top: 1px;
     }
 /* purple */
 if purple {
@@ -388,7 +389,7 @@ li.search {
     background-color: #fff;
     color: #555;
     border-radius: 10px;
-    margin-top: 6px;
+    margin-top: 7px;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     font-size: 13px;
     padding-left: 33.1px;
