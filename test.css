@@ -1,23 +1,23 @@
 /* ==UserStyle==
-@name           scratch-www
-@namespace      https://github.com/angelotrabuco2013/scratch-www
-@supportURL     https://github.com/angelotrabuco2013/scratch-www/pulls
-@updateURL      https://github.com/angelotrabuco2013/scratch-www/raw/main/theme.user.css
-@version        2.0.461.2_scratch-www_git_main_angelotrabuco2013_mvto7jol7vqxszaarfj4ki8obxfl1j
-@license        MIT
+@name           Scratch 2013afy
+@namespace      https://github.com/gliczide/Rescratcher/
+@supportURL     https://github.com/gliczide/Rescratcher/pulls
+@updateURL      https://github.com/gliczide/Rescratcher/theme.user.css
+@version        1.0.1
+@license        Apache License 2.0
 @description    Reverts 3.0 pages into 2.0!
-@author         FrontRub Technology Co., Ltd
+@author         gliczide <gliczide@gmail.com> (https://txti.es/gliczide)
 @preprocessor   stylus
 
-@var checkbox purple 'Enable purple color' 0
-@var checkbox header 'Header (2013-late 2015)' 1
-@var checkbox homepage 'Homepage (2013)' 1
-@var checkbox logo 'Padding logo header (2013)' 1
-@var checkbox avatar 'Padding avatar in studio comments (2013)' 1
-@var checkbox studio 'Big title Project+Studio size (2014-2018)' 0
-@var checkbox texts 'Texts Before (English Only)' 1
+@var checkbox purple 'Purplized' 1
+@var checkbox header 'Header (2013-early 2016)' 1
+@var checkbox homepage 'Homepage (2013)' 0
+@var checkbox logo 'Padding logo header (2013)' 0
+@var checkbox avatar 'Padding avatar in studio comments (2013)' 0
+@var checkbox studio 'Big title Project+Studio size (2014-2018)' 1
+@var checkbox texts 'Texts Before (English Only)' 0
 @var checkbox improved 'Bit improved buttons in studio (Curators Only)' 1
-@var checkbox features 'Featured text (Apr 2013 - Jul 2013)' 1
+@var checkbox features 'Featured text (Apr 2013 - Jul 2013)' 0
 @var checkbox early 'Alpha 2.0' 0
 
 ==/UserStyle== */
