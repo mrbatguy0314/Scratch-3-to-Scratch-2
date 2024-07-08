@@ -2,7 +2,6 @@
 @name           Scratch 2013afy
 @namespace      https://github.com/gliczide/Rescratcher/
 @supportURL     https://github.com/gliczide/Rescratcher/pulls
-@updateURL      https://github.com/gliczide/Rescratcher/theme.user.css
 @version        1.0.1
 @license        Apache License 2.0
 @description    Reverts 3.0 pages into 2.0!
@@ -22,11 +21,6 @@
 
 ==/UserStyle== */
 @-moz-document domain("scratch.mit.edu") {
-/* scratch 2.0 fizes*/
-#topnav form.search input[type=text]{
-    width:170px;
-    margin-top: 1px;
-    }
 /* purple */
 if purple {
 #navigation, .dropdown-menu.blue, .dropdown.production.open, #topnav .innerwrap, #topnav ul.account-nav .logged-in-user .dropdown-menu, #topnav li.logout.divider input {
@@ -71,7 +65,8 @@ if studio {
 .project-title.no-edit, .studio-info .studio-title {
     font-size: 24px !important;
     font-weight: 500 !important;
-    line-height: 1.5em !important; }
+    line-height: 1.5em !important;
+}
 .preview .project-header .inplace-input {
     margin-top: 7px !important; }
 .flex-row.project-header {
@@ -389,7 +384,7 @@ li.search {
     background-color: #fff;
     color: #555;
     border-radius: 10px;
-    margin-top: 7px;
+    margin-top: 6px;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     font-size: 13px;
     padding-left: 33.1px;
@@ -2137,14 +2132,18 @@ label.mod-clickable:hover {
     border-bottom-color: #BCBDBE !important;
     border-top-color: #D0D1D2 !important;
     border-radius: 0; }
+/* Code, Costumes and Sounds tabs go here to change the width*/
 .react-tabs_react-tabs__tab-list_17Wee.gui_tab-list_87TYM {
     padding: 0;
-    height: 40px; }
+    height: 40px;
+    width: 60px;
+}
 [dir="ltr"] .gui_tab_27Unf {
     margin-left: 0;
     border-radius: 8px 8px 0 0;
     border-bottom: 0;
-    height: 28px !important; }
+    height: 28px !important;
+    width: 75px;}
 #react-tabs-0 {
     max-width: 60px; }
 #react-tabs-2 {
@@ -2461,8 +2460,10 @@ img.tool-select-base_tool-select-icon_tJ-rr {
 .author-info_project-title_h7Gcj, .author-info_username_2Ov2- {
     font-weight: 500; }
 .author-info_project-title_h7Gcj {
-    font-size: 16px;
-    margin-bottom: 1px; }
+    color: #554747;
+    font-size: 1.6923em;
+    line-height: 1.1818em;
+    margin-top: 3px; }
 .stage-selector_costume-canvas_2L_6h {
     box-shadow: none;
     border: 1px solid #ccc;
@@ -2641,11 +2642,13 @@ img.sprite-selector-item_sprite-image_2QWuK {
     top: 44px;
     left: 52px;
     display: block; }
+/* Title Bar */
 input.input_input-form_l9eYg.project-title-input_title-field_en5Gd.menu-bar_title-field-growable_3qr4G {
-    width: 300px; 
+    width: 350px; 
     border-style: solid;
     margin-top: -4px;
     padding: 3px;
+    color: black;
 }
 .action-menu_more-buttons-outer_3J9yZ, .action-menu_more-button_1fMGZ {
     background: #e6e8e8 !important; }
